@@ -1,6 +1,7 @@
 # TO-DO APP
 ----------------------------
 Basic To-Do app using Ruby on Rails
+- Ruby
 - HTML
 - CSS
 - Bootsrap
